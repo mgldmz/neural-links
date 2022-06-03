@@ -1,0 +1,19 @@
+body{
+
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+
+canvas{
+    position: fixed;
+    border: 1px solid black;
+}
+h1{
+
+    position: absolute;
+    color: #e6d9cb;
+    
+}
